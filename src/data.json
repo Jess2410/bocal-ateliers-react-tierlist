@@ -1,0 +1,82 @@
+{
+  "name": "Cinema Tier List",
+  "description": "La liste des meilleurs films de tous les temps",
+  "list": {
+    "S": [
+      {
+        "title": "Retour vers le futur",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "A": [
+      {
+        "title": "Avatar",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg"
+      },
+      {
+        "title": "Alien",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg"
+      },
+      {
+        "title": "Apocalypse Now",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/c/c2/Apocalypse_Now_poster.jpg"
+      }
+    ],
+    "B": [
+      {
+        "title": "Blade Runner",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/5/53/Blade_Runner_poster.jpg"
+      },
+      {
+        "title": "The Big Lebowski",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+      }
+    ],
+    "C": [
+      {
+        "title": "Casablanca",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CasablancaPoster-Gold.jpg/440px-CasablancaPoster-Gold.jpg"
+      },
+      {
+        "title": "Citizen Kane",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Citizenkane.jpg/440px-Citizenkane.jpg"
+      },
+      {
+        "title": "The Godfather",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+      }
+    ],
+    "D": [
+      {
+        "title": "The Departed",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Departed234.jpg/440px-Departed234.jpg"
+      },
+      {
+        "title": "Django Unchained",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg"
+      },
+      {
+        "title": "Donnie Darko",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/db/Donnie_Darko_poster.jpg"
+      }
+    ],
+    "E": [
+      {
+        "title": "E.T. the Extra-Terrestrial",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/6/66/E_t_the_extra_terrestrial_ver3.jpg"
+      },
+      {
+        "title": "The Empire Strikes Back",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg"
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Eternal_sunshine_of_the_spotless_mind_ver3.jpg/440px-Eternal_sunshine_of_the_spotless_mind_ver3.jpg"
+      }
+    ]
+  }
+}
